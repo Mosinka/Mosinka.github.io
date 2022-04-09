@@ -427,3 +427,22 @@ nav{
     text-align: center;
     color: #fff;    
 }
+.title_container8{
+    width: 100%;
+    height: 350px;
+    background: url(../img/%D0%AF%20%D0%B7%D0%B4%D0%B5%D1%81%D1%8C.png)center no-repeat,url(../img/%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.png)center/cover no-repeat;
+}
+.title_container8 input{
+   
+}
+.title_container9{
+    width: 100%;
+    height: 90px;
+    background:  #354051;
+    color: #fff;
+    text-align: center;
+    font-size: 13px;
+}
+.title_container9 p{
+    padding-top: 45px;;
+}
